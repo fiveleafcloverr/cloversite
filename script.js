@@ -14,6 +14,7 @@ class Message {
 
 
 const statuses = [
+    new Message("website is now running at fiveleafclover.xyz!!", "(1/2/2026)"),
     new Message("now im using javascript so i can do cooler stuff", "(1/2/2026)"),
     new Message("i need to get a new font for the website this one kinda sucks", "(1/2/2026)"),
     new Message("bleh!!", "(31/1/2026)"),
